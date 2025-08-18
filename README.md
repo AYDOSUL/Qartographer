@@ -23,7 +23,7 @@ Qartographer leverages SciPy's optimization module to minimize a carefully craft
    ```bash
    git clone https://github.com/AYDOSUL/Qartographer.git
    cd Qartographer
-2. Follow the instructions in the `docs` directory to install dependencies and run the tool.
+2. Follow the instructions in `INFO.md` to install dependencies and run the tool.
 3. Qartographer uses a simple JSON format for input and output, making it easy to integrate into existing design workflows.
 
  ## Contribute
