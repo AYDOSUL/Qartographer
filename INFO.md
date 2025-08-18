@@ -5,7 +5,7 @@ Qartographer is a Python-based tool designed to help you optimize the placement 
 
 Since this project consists of a single file, you don't need to install anything. Just follow these steps to get started:
 
-1.  **Download the file:** Download `qartographer.py` and place it in your project directory.
+1.  **Download the file:** Download `qartographer.py` and place it in your project directory, or clone this repository with `git clone https://github.com/AYDOSUL/Qartographer.git`
 
 2.  **Import the functions:** Import the libraries listed below(Note: Libraries 4 and 5 are usually included with Python by default.)
   1. NumPy
