@@ -222,7 +222,7 @@ def plot_lattice(ax_object, drive_points, drive_paths, multiplexer_lines, read_t
 
     # Plotting Drive Points (Yellow Circles)
     for point_data in drive_points:
-        circle = Circle((point_data[0], point_data[1]), drive_radius, color='yellow', fill=True, label='Drive Point')
+        circle = Circle((point_data[0], point_data[1]), drive_radius, color='yellow', fill=True, label='Control/Readout Ports')
         ax_object.add_patch(circle)
 
     # Plotting Qubit Couplings
@@ -233,7 +233,7 @@ def plot_lattice(ax_object, drive_points, drive_paths, multiplexer_lines, read_t
         if start_qubit_index < len(qubits) and end_qubit_index < len(qubits):
             start_coords = qubits[start_qubit_index]
             end_coords = qubits[end_qubit_index]
-            ax_object.plot([start_coords[0], end_coords[0]], [start_coords[1], end_coords[1]], color='red', label='Qubit Coupling')
+            ax_object.plot([start_coords[0], end_coords[0]], [start_coords[1], end_coords[1]], color='red', label='Qubit Coupler')
         else:
             print(f"Warning: Coupling {coupling} refers to out-of-bounds qubit index.")
 
@@ -241,13 +241,13 @@ def plot_lattice(ax_object, drive_points, drive_paths, multiplexer_lines, read_t
     for path in drive_paths:
         x_coords = [p[0] for p in path]
         y_coords = [p[1] for p in path]
-        ax_object.plot(x_coords, y_coords, color='green', linewidth=2, label='Drive Line')
+        ax_object.plot(x_coords, y_coords, color='green', linewidth=2, label='RF Control Line')
 
     # Plotting Multiplexer Lines (Solid Black Lines)
     for line_info in multiplexer_lines:
         start_coords = line_info[0]
         end_coords = line_info[1]
-        ax_object.plot([start_coords[0], end_coords[0]], [start_coords[1], end_coords[1]], color='black', linewidth=2, label='Multiplexer Line')
+        ax_object.plot([start_coords[0], end_coords[0]], [start_coords[1], end_coords[1]], color='black', linewidth=2, label='Readout Multiplexer')
 
     # Plotting Readout Resonator Lines (Orange Lines)
     for line_info in read_to_multi_lines:
