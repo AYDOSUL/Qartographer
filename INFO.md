@@ -7,7 +7,7 @@ Since this project consists of a single file, you don't need to install anything
 
 1.  **Download the file:** Download `qartographer.py` and place it in your project directory, or clone this repository with `git clone https://github.com/AYDOSUL/Qartographer.git`
 
-2.  **Import the functions:** Import NumPy, SciPy, MatPlotLib, JSON, and OS.
+2.  **Import the Dependencies:** Import NumPy, SciPy, MatPlotLib, JSON, and OS.
 3.  **Create Your First JSON:** Create a JSON file with the structure discussed in `Qartographer_Whitepaper.pdf`
 4.  **Choose Your Drive Points:** Choose and edit the drive points array to match your chip specifications
 5.  **Edit The Optimization Constants:** Edit the values to match your specifications
