@@ -1,0 +1,538 @@
+{
+  "optimized_qubit_coordinates": {
+    "Qubit_0": {
+      "x": 0.000677,
+      "y": -9.5e-5
+    },
+    "Qubit_1": {
+      "x": 0.000735,
+      "y": -9.5e-5
+    },
+    "Qubit_2": {
+      "x": 0.000793,
+      "y": -9.5e-5
+    },
+    "Qubit_3": {
+      "x": 0.000851,
+      "y": -9.5e-5
+    },
+    "Qubit_4": {
+      "x": 0.000909,
+      "y": -9.5e-5
+    },
+    "Qubit_5": {
+      "x": 0.000967,
+      "y": -9.5e-5
+    },
+    "Qubit_6": {
+      "x": 0.001025,
+      "y": -9.5e-5
+    },
+    "Qubit_7": {
+      "x": 0.000677,
+      "y": -3.7e-5
+    },
+    "Qubit_8": {
+      "x": 0.000735,
+      "y": -3.7e-5
+    },
+    "Qubit_9": {
+      "x": 0.000793,
+      "y": -3.7e-5
+    },
+    "Qubit_10": {
+      "x": 0.000851,
+      "y": -3.7e-5
+    },
+    "Qubit_11": {
+      "x": 0.000909,
+      "y": -3.7e-5
+    },
+    "Qubit_12": {
+      "x": 0.000967,
+      "y": -3.7e-5
+    },
+    "Qubit_13": {
+      "x": 0.001025,
+      "y": -3.7e-5
+    },
+    "Qubit_14": {
+      "x": 0.000677,
+      "y": 2.1e-5
+    },
+    "Qubit_15": {
+      "x": 0.000735,
+      "y": 2.1e-5
+    },
+    "Qubit_16": {
+      "x": 0.000793,
+      "y": 2.1e-5
+    },
+    "Qubit_17": {
+      "x": 0.000851,
+      "y": 2.1e-5
+    },
+    "Qubit_18": {
+      "x": 0.000909,
+      "y": 2.1e-5
+    },
+    "Qubit_19": {
+      "x": 0.000967,
+      "y": 2.1e-5
+    },
+    "Qubit_20": {
+      "x": 0.001025,
+      "y": 2.1e-5
+    },
+    "Qubit_21": {
+      "x": 0.000677,
+      "y": 7.9e-5
+    },
+    "Qubit_22": {
+      "x": 0.000735,
+      "y": 7.9e-5
+    },
+    "Qubit_23": {
+      "x": 0.000793,
+      "y": 7.9e-5
+    },
+    "Qubit_24": {
+      "x": 0.000851,
+      "y": 7.9e-5
+    },
+    "Qubit_25": {
+      "x": 0.000909,
+      "y": 7.9e-5
+    },
+    "Qubit_26": {
+      "x": 0.000967,
+      "y": 7.9e-5
+    },
+    "Qubit_27": {
+      "x": 0.001025,
+      "y": 7.9e-5
+    },
+    "Qubit_28": {
+      "x": 0.000677,
+      "y": 0.000137
+    },
+    "Qubit_29": {
+      "x": 0.000735,
+      "y": 0.000137
+    },
+    "Qubit_30": {
+      "x": 0.000793,
+      "y": 0.000137
+    },
+    "Qubit_31": {
+      "x": 0.000851,
+      "y": 0.000137
+    },
+    "Qubit_32": {
+      "x": 0.000909,
+      "y": 0.000137
+    },
+    "Qubit_33": {
+      "x": 0.000967,
+      "y": 0.000137
+    },
+    "Qubit_34": {
+      "x": 0.001025,
+      "y": 0.000137
+    },
+    "Qubit_35": {
+      "x": 0.000677,
+      "y": 0.000195
+    },
+    "Qubit_36": {
+      "x": 0.000735,
+      "y": 0.000195
+    },
+    "Qubit_37": {
+      "x": 0.000793,
+      "y": 0.000195
+    },
+    "Qubit_38": {
+      "x": 0.000851,
+      "y": 0.000195
+    },
+    "Qubit_39": {
+      "x": 0.000909,
+      "y": 0.000195
+    },
+    "Qubit_40": {
+      "x": 0.000967,
+      "y": 0.000195
+    },
+    "Qubit_41": {
+      "x": 0.001025,
+      "y": 0.000195
+    },
+    "Qubit_42": {
+      "x": 0.000677,
+      "y": 0.000253
+    },
+    "Qubit_43": {
+      "x": 0.000735,
+      "y": 0.000253
+    },
+    "Qubit_44": {
+      "x": 0.000793,
+      "y": 0.000253
+    },
+    "Qubit_45": {
+      "x": 0.000851,
+      "y": 0.000253
+    },
+    "Qubit_46": {
+      "x": 0.000909,
+      "y": 0.000253
+    },
+    "Qubit_47": {
+      "x": 0.000967,
+      "y": 0.000253
+    },
+    "Qubit_48": {
+      "x": 0.001025,
+      "y": 0.000253
+    }
+  },
+  "optimized_couplings": [
+    {
+      "qubit1_index": 0,
+      "qubit2_index": 1
+    },
+    {
+      "qubit1_index": 0,
+      "qubit2_index": 7
+    },
+    {
+      "qubit1_index": 1,
+      "qubit2_index": 2
+    },
+    {
+      "qubit1_index": 1,
+      "qubit2_index": 8
+    },
+    {
+      "qubit1_index": 2,
+      "qubit2_index": 3
+    },
+    {
+      "qubit1_index": 2,
+      "qubit2_index": 9
+    },
+    {
+      "qubit1_index": 3,
+      "qubit2_index": 4
+    },
+    {
+      "qubit1_index": 3,
+      "qubit2_index": 10
+    },
+    {
+      "qubit1_index": 4,
+      "qubit2_index": 5
+    },
+    {
+      "qubit1_index": 4,
+      "qubit2_index": 11
+    },
+    {
+      "qubit1_index": 5,
+      "qubit2_index": 6
+    },
+    {
+      "qubit1_index": 5,
+      "qubit2_index": 12
+    },
+    {
+      "qubit1_index": 6,
+      "qubit2_index": 13
+    },
+    {
+      "qubit1_index": 7,
+      "qubit2_index": 8
+    },
+    {
+      "qubit1_index": 7,
+      "qubit2_index": 14
+    },
+    {
+      "qubit1_index": 8,
+      "qubit2_index": 9
+    },
+    {
+      "qubit1_index": 8,
+      "qubit2_index": 15
+    },
+    {
+      "qubit1_index": 9,
+      "qubit2_index": 10
+    },
+    {
+      "qubit1_index": 9,
+      "qubit2_index": 16
+    },
+    {
+      "qubit1_index": 10,
+      "qubit2_index": 11
+    },
+    {
+      "qubit1_index": 10,
+      "qubit2_index": 17
+    },
+    {
+      "qubit1_index": 11,
+      "qubit2_index": 12
+    },
+    {
+      "qubit1_index": 11,
+      "qubit2_index": 18
+    },
+    {
+      "qubit1_index": 12,
+      "qubit2_index": 13
+    },
+    {
+      "qubit1_index": 12,
+      "qubit2_index": 19
+    },
+    {
+      "qubit1_index": 13,
+      "qubit2_index": 20
+    },
+    {
+      "qubit1_index": 14,
+      "qubit2_index": 15
+    },
+    {
+      "qubit1_index": 14,
+      "qubit2_index": 21
+    },
+    {
+      "qubit1_index": 15,
+      "qubit2_index": 16
+    },
+    {
+      "qubit1_index": 15,
+      "qubit2_index": 22
+    },
+    {
+      "qubit1_index": 16,
+      "qubit2_index": 17
+    },
+    {
+      "qubit1_index": 16,
+      "qubit2_index": 23
+    },
+    {
+      "qubit1_index": 17,
+      "qubit2_index": 18
+    },
+    {
+      "qubit1_index": 17,
+      "qubit2_index": 24
+    },
+    {
+      "qubit1_index": 18,
+      "qubit2_index": 19
+    },
+    {
+      "qubit1_index": 18,
+      "qubit2_index": 25
+    },
+    {
+      "qubit1_index": 19,
+      "qubit2_index": 20
+    },
+    {
+      "qubit1_index": 19,
+      "qubit2_index": 26
+    },
+    {
+      "qubit1_index": 20,
+      "qubit2_index": 27
+    },
+    {
+      "qubit1_index": 21,
+      "qubit2_index": 22
+    },
+    {
+      "qubit1_index": 21,
+      "qubit2_index": 28
+    },
+    {
+      "qubit1_index": 22,
+      "qubit2_index": 23
+    },
+    {
+      "qubit1_index": 22,
+      "qubit2_index": 29
+    },
+    {
+      "qubit1_index": 23,
+      "qubit2_index": 24
+    },
+    {
+      "qubit1_index": 23,
+      "qubit2_index": 30
+    },
+    {
+      "qubit1_index": 24,
+      "qubit2_index": 25
+    },
+    {
+      "qubit1_index": 24,
+      "qubit2_index": 31
+    },
+    {
+      "qubit1_index": 25,
+      "qubit2_index": 26
+    },
+    {
+      "qubit1_index": 25,
+      "qubit2_index": 32
+    },
+    {
+      "qubit1_index": 26,
+      "qubit2_index": 27
+    },
+    {
+      "qubit1_index": 26,
+      "qubit2_index": 33
+    },
+    {
+      "qubit1_index": 27,
+      "qubit2_index": 34
+    },
+    {
+      "qubit1_index": 28,
+      "qubit2_index": 29
+    },
+    {
+      "qubit1_index": 28,
+      "qubit2_index": 35
+    },
+    {
+      "qubit1_index": 29,
+      "qubit2_index": 30
+    },
+    {
+      "qubit1_index": 29,
+      "qubit2_index": 36
+    },
+    {
+      "qubit1_index": 30,
+      "qubit2_index": 31
+    },
+    {
+      "qubit1_index": 30,
+      "qubit2_index": 37
+    },
+    {
+      "qubit1_index": 31,
+      "qubit2_index": 32
+    },
+    {
+      "qubit1_index": 31,
+      "qubit2_index": 38
+    },
+    {
+      "qubit1_index": 32,
+      "qubit2_index": 33
+    },
+    {
+      "qubit1_index": 32,
+      "qubit2_index": 39
+    },
+    {
+      "qubit1_index": 33,
+      "qubit2_index": 34
+    },
+    {
+      "qubit1_index": 33,
+      "qubit2_index": 40
+    },
+    {
+      "qubit1_index": 34,
+      "qubit2_index": 41
+    },
+    {
+      "qubit1_index": 35,
+      "qubit2_index": 36
+    },
+    {
+      "qubit1_index": 35,
+      "qubit2_index": 42
+    },
+    {
+      "qubit1_index": 36,
+      "qubit2_index": 37
+    },
+    {
+      "qubit1_index": 36,
+      "qubit2_index": 43
+    },
+    {
+      "qubit1_index": 37,
+      "qubit2_index": 38
+    },
+    {
+      "qubit1_index": 37,
+      "qubit2_index": 44
+    },
+    {
+      "qubit1_index": 38,
+      "qubit2_index": 39
+    },
+    {
+      "qubit1_index": 38,
+      "qubit2_index": 45
+    },
+    {
+      "qubit1_index": 39,
+      "qubit2_index": 40
+    },
+    {
+      "qubit1_index": 39,
+      "qubit2_index": 46
+    },
+    {
+      "qubit1_index": 40,
+      "qubit2_index": 41
+    },
+    {
+      "qubit1_index": 40,
+      "qubit2_index": 47
+    },
+    {
+      "qubit1_index": 41,
+      "qubit2_index": 48
+    },
+    {
+      "qubit1_index": 42,
+      "qubit2_index": 43
+    },
+    {
+      "qubit1_index": 43,
+      "qubit2_index": 44
+    },
+    {
+      "qubit1_index": 44,
+      "qubit2_index": 45
+    },
+    {
+      "qubit1_index": 45,
+      "qubit2_index": 46
+    },
+    {
+      "qubit1_index": 46,
+      "qubit2_index": 47
+    },
+    {
+      "qubit1_index": 47,
+      "qubit2_index": 48
+    }
+  ]
+}
