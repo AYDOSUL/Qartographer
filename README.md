@@ -29,7 +29,7 @@ Qartographer leverages SciPy's optimization module to minimize a carefully craft
  ## Contribute
 
 We welcome contributions of all kinds!  
-If you see something that can be improved, feel free to:
+If you see something that can be improved(Or you happen to make an interesting device map), feel free to:
 
 - Open an [issue](https://github.com/AYDOSUL/Qartographer/issues)
 - Submit a [pull request](https://github.com/AYDOSUL/Qartographer/pulls)
